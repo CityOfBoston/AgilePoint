@@ -9,10 +9,10 @@ Project Manager/s can complete their Release Notes.
 
 1. goto the [release section](https://github.com/CityOfBoston/AgilePoint/releases) of the repository,
 3. click the "Draft a New Release" button
-4. click on "Choose a Tag" and create a new tag in the format "APPName v9.2023.mm.dd"
+4. click on "Choose a Tag" and create a new tag in the format "APPName vn.nn" where _vn.nn_ is the version number assigned when publishing in Agilepoint.
 5. ensure the Target is the `main` branch
 6. give the release a titlethe same as the tag name
-7. in the Description, copy and paste in the template below, then click the `Generate release notes` button to append the commits to be bottom of the textbox. Update the "Jira Tickets` section with all tickets that have been addressed in this release.
+7. in the Description, copy and paste in the template below, then click the `Generate release notes` button to append the commits to be bottom of the textbox. Update the "Jira Tickets` section with all tickets that have been addressed in this release. Update the "Agilepoint Version" section with the associated version generated when publishing the app in Agilepoint.
 8. click "Set as the latest release",
 9. click the `Save draft` button.
 
@@ -37,8 +37,8 @@ A Github action <img src="https://s3-us-west-2.amazonaws.com/slack-files2/bot_ic
 [Add a list of Jira Tickets addressed in this Release, with links to the Jira website]
 example: Dig-1839 - [Update residential exemption application in Assessing Online](https://bostondoit.atlassian.net/browse/DIG-1839)
 
-### Acquia tags
-[add in the acquia tag]
+### Agilepoint Version
+[add in the AGP version]
 ```
 ## Project Manager: Release Jira Tickets 
 1. In Jira create a release with the following convention RepositoryName/release version (e.g. Appname/v9.2023.2) 
