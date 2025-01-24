@@ -11,6 +11,7 @@ Once the developer publishes an app in the Agilepoint production environment and
 - note the current (production) version number (e.g. 1.05),
 - exports the app (a zip file) and saves locally,
 - finally, imports the zip file into the correct folder in the AgilePoint repo in Github.
+- To create folder click + and name the file with a full path(e.g newfolder/readme.md)- commit change to main branch
 
 ## Lead Developer: Tag and release `Production` branch
 After the app is published in production on Agilepoint and loladed into Github, the lead developer must tag and release the `main` branch so that the 
