@@ -1,2 +1,3 @@
 https://bostondoit.atlassian.net/browse/DIG-6488 - The Assessing Department sends out notice letters each February to constituents who need to fill out a 38D Property Tax returns. User must download the appropriate Excel Spreadsheet and fill out the 38 D Online form to submit the 38D Property Tax Returns. We need to update the 38 D form and google drive where submissions live to prepare for Fiscal Year 2024.
+
 https://bostondoit.atlassian.net/browse/DIG-6408 - This form is used by businesses to submit their annual 38D tax return. This process sorts the forms into Google Drive folders based on type, sends an email notification to the user and the Assessing Department, and outputs a report view.
