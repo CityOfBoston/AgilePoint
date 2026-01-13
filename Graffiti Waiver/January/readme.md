@@ -1,5 +1,1 @@
-January changes: Updating current year for the following Apps:
-
-Graffiti waiver
-
-Ethics Disclosures
+January changes: Updating current year 2026.
